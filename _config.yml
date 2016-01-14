@@ -1,0 +1,28 @@
+name: Front Porch Prophets
+favicon: null
+layout_spectrum: 0.29603504412807524
+typography_spectrum: 0.3199285645969212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9034377345815301
+  lightness: 0.41303615062497556
+  saturation: 0.4559437916614115
+  rhythmicContrast: 0.3718862230889499
+purpose: []
